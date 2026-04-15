@@ -1,1 +1,7 @@
+# Security Policy
 
+## Reporting a vulnerability
+
+If you find a security issue, please report it by opening an issue in the repository.
+
+We will respond as quickly as possible.
